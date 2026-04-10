@@ -1,13 +1,13 @@
 {
   "user": "caseprince",
-  "fetched_at": "2026-04-10T17:51:56Z",
+  "fetched_at": "2026-04-10T18:10:11Z",
   "years": [
     {
       "year": 2011,
       "from": "2011-10-28T00:11:31Z",
       "to": "2011-12-31T23:59:59Z",
       "totals": {
-        "contributions": 0,
+        "contributions": 1,
         "commits": 0,
         "issues": 0,
         "pullRequests": 0,
@@ -18,8 +18,8 @@
       "calendar": [
         {
           "date": "2011-10-28",
-          "contributionCount": 0,
-          "color": "#ebedf0"
+          "contributionCount": 1,
+          "color": "#216e39"
         },
         {
           "date": "2011-10-29",
@@ -9923,12 +9923,12 @@
         },
         {
           "date": "2017-01-03",
-          "contributionCount": 20,
+          "contributionCount": 19,
           "color": "#30a14e"
         },
         {
           "date": "2017-01-04",
-          "contributionCount": 19,
+          "contributionCount": 20,
           "color": "#30a14e"
         },
         {
@@ -9963,12 +9963,12 @@
         },
         {
           "date": "2017-01-11",
-          "contributionCount": 11,
+          "contributionCount": 10,
           "color": "#40c463"
         },
         {
           "date": "2017-01-12",
-          "contributionCount": 7,
+          "contributionCount": 8,
           "color": "#9be9a8"
         },
         {
@@ -11468,12 +11468,12 @@
         },
         {
           "date": "2017-11-08",
-          "contributionCount": 18,
+          "contributionCount": 17,
           "color": "#30a14e"
         },
         {
           "date": "2017-11-09",
-          "contributionCount": 11,
+          "contributionCount": 12,
           "color": "#40c463"
         },
         {
@@ -11821,7 +11821,7 @@
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositories": 0,
-        "restricted": 2217
+        "restricted": 2216
       },
       "calendar": [
         {
@@ -11896,13 +11896,13 @@
         },
         {
           "date": "2018-01-15",
-          "contributionCount": 5,
+          "contributionCount": 4,
           "color": "#9be9a8"
         },
         {
           "date": "2018-01-16",
-          "contributionCount": 0,
-          "color": "#ebedf0"
+          "contributionCount": 1,
+          "color": "#9be9a8"
         },
         {
           "date": "2018-01-17",
@@ -12111,13 +12111,13 @@
         },
         {
           "date": "2018-02-27",
-          "contributionCount": 4,
+          "contributionCount": 2,
           "color": "#9be9a8"
         },
         {
           "date": "2018-02-28",
-          "contributionCount": 8,
-          "color": "#9be9a8"
+          "contributionCount": 10,
+          "color": "#40c463"
         },
         {
           "date": "2018-03-01",
@@ -12216,12 +12216,12 @@
         },
         {
           "date": "2018-03-20",
-          "contributionCount": 14,
+          "contributionCount": 13,
           "color": "#40c463"
         },
         {
           "date": "2018-03-21",
-          "contributionCount": 4,
+          "contributionCount": 5,
           "color": "#9be9a8"
         },
         {
@@ -12511,13 +12511,13 @@
         },
         {
           "date": "2018-05-18",
-          "contributionCount": 18,
-          "color": "#30a14e"
+          "contributionCount": 17,
+          "color": "#40c463"
         },
         {
           "date": "2018-05-19",
-          "contributionCount": 0,
-          "color": "#ebedf0"
+          "contributionCount": 1,
+          "color": "#9be9a8"
         },
         {
           "date": "2018-05-20",
@@ -12611,12 +12611,12 @@
         },
         {
           "date": "2018-06-07",
-          "contributionCount": 6,
+          "contributionCount": 5,
           "color": "#9be9a8"
         },
         {
           "date": "2018-06-08",
-          "contributionCount": 19,
+          "contributionCount": 20,
           "color": "#30a14e"
         },
         {
@@ -14191,12 +14191,12 @@
         },
         {
           "date": "2019-03-04",
-          "contributionCount": 2,
-          "color": "#9be9a8"
+          "contributionCount": 0,
+          "color": "#ebedf0"
         },
         {
           "date": "2019-03-05",
-          "contributionCount": 23,
+          "contributionCount": 25,
           "color": "#216e39"
         },
         {
@@ -15471,13 +15471,13 @@
         },
         {
           "date": "2019-11-15",
-          "contributionCount": 3,
+          "contributionCount": 2,
           "color": "#9be9a8"
         },
         {
           "date": "2019-11-16",
-          "contributionCount": 0,
-          "color": "#ebedf0"
+          "contributionCount": 1,
+          "color": "#9be9a8"
         },
         {
           "date": "2019-11-17",
@@ -19927,12 +19927,12 @@
         },
         {
           "date": "2022-01-06",
-          "contributionCount": 2,
+          "contributionCount": 1,
           "color": "#9be9a8"
         },
         {
           "date": "2022-01-07",
-          "contributionCount": 3,
+          "contributionCount": 4,
           "color": "#40c463"
         },
         {
@@ -20067,13 +20067,13 @@
         },
         {
           "date": "2022-02-03",
-          "contributionCount": 3,
-          "color": "#40c463"
+          "contributionCount": 2,
+          "color": "#9be9a8"
         },
         {
           "date": "2022-02-04",
-          "contributionCount": 0,
-          "color": "#ebedf0"
+          "contributionCount": 1,
+          "color": "#9be9a8"
         },
         {
           "date": "2022-02-05",
@@ -20097,13 +20097,13 @@
         },
         {
           "date": "2022-02-09",
-          "contributionCount": 3,
-          "color": "#40c463"
+          "contributionCount": 2,
+          "color": "#9be9a8"
         },
         {
           "date": "2022-02-10",
-          "contributionCount": 2,
-          "color": "#9be9a8"
+          "contributionCount": 3,
+          "color": "#40c463"
         },
         {
           "date": "2022-02-11",
@@ -20332,13 +20332,13 @@
         },
         {
           "date": "2022-03-28",
-          "contributionCount": 1,
-          "color": "#9be9a8"
+          "contributionCount": 0,
+          "color": "#ebedf0"
         },
         {
           "date": "2022-03-29",
-          "contributionCount": 0,
-          "color": "#ebedf0"
+          "contributionCount": 1,
+          "color": "#9be9a8"
         },
         {
           "date": "2022-03-30",
@@ -20672,13 +20672,13 @@
         },
         {
           "date": "2022-06-04",
-          "contributionCount": 1,
-          "color": "#9be9a8"
+          "contributionCount": 0,
+          "color": "#ebedf0"
         },
         {
           "date": "2022-06-05",
-          "contributionCount": 0,
-          "color": "#ebedf0"
+          "contributionCount": 1,
+          "color": "#9be9a8"
         },
         {
           "date": "2022-06-06",
@@ -21367,13 +21367,13 @@
         },
         {
           "date": "2022-10-21",
-          "contributionCount": 3,
-          "color": "#40c463"
+          "contributionCount": 2,
+          "color": "#9be9a8"
         },
         {
           "date": "2022-10-22",
-          "contributionCount": 0,
-          "color": "#ebedf0"
+          "contributionCount": 1,
+          "color": "#9be9a8"
         },
         {
           "date": "2022-10-23",
@@ -21597,12 +21597,12 @@
         },
         {
           "date": "2022-12-06",
-          "contributionCount": 1,
-          "color": "#9be9a8"
+          "contributionCount": 0,
+          "color": "#ebedf0"
         },
         {
           "date": "2022-12-07",
-          "contributionCount": 1,
+          "contributionCount": 2,
           "color": "#9be9a8"
         },
         {
@@ -21622,12 +21622,12 @@
         },
         {
           "date": "2022-12-11",
-          "contributionCount": 2,
+          "contributionCount": 1,
           "color": "#9be9a8"
         },
         {
           "date": "2022-12-12",
-          "contributionCount": 3,
+          "contributionCount": 4,
           "color": "#40c463"
         },
         {
@@ -21935,12 +21935,12 @@
       "to": "2023-12-31T23:59:59Z",
       "totals": {
         "contributions": 816,
-        "commits": 74,
+        "commits": 136,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositories": 1,
-        "restricted": 741
+        "repositories": 3,
+        "restricted": 677
       },
       "calendar": [
         {
@@ -21951,12 +21951,12 @@
         {
           "date": "2023-01-02",
           "contributionCount": 6,
-          "color": "#40c463"
+          "color": "#30a14e"
         },
         {
           "date": "2023-01-03",
           "contributionCount": 9,
-          "color": "#30a14e"
+          "color": "#216e39"
         },
         {
           "date": "2023-01-04",
@@ -22101,7 +22101,7 @@
         {
           "date": "2023-02-01",
           "contributionCount": 3,
-          "color": "#9be9a8"
+          "color": "#40c463"
         },
         {
           "date": "2023-02-02",
@@ -22131,7 +22131,7 @@
         {
           "date": "2023-02-07",
           "contributionCount": 3,
-          "color": "#9be9a8"
+          "color": "#40c463"
         },
         {
           "date": "2023-02-08",
@@ -22176,7 +22176,7 @@
         {
           "date": "2023-02-16",
           "contributionCount": 6,
-          "color": "#40c463"
+          "color": "#30a14e"
         },
         {
           "date": "2023-02-17",
@@ -22211,7 +22211,7 @@
         {
           "date": "2023-02-23",
           "contributionCount": 3,
-          "color": "#9be9a8"
+          "color": "#40c463"
         },
         {
           "date": "2023-02-24",
@@ -22275,12 +22275,12 @@
         },
         {
           "date": "2023-03-08",
-          "contributionCount": 2,
+          "contributionCount": 1,
           "color": "#9be9a8"
         },
         {
           "date": "2023-03-09",
-          "contributionCount": 1,
+          "contributionCount": 2,
           "color": "#9be9a8"
         },
         {
@@ -22301,7 +22301,7 @@
         {
           "date": "2023-03-13",
           "contributionCount": 6,
-          "color": "#40c463"
+          "color": "#30a14e"
         },
         {
           "date": "2023-03-14",
@@ -22381,17 +22381,17 @@
         {
           "date": "2023-03-29",
           "contributionCount": 3,
-          "color": "#9be9a8"
+          "color": "#40c463"
         },
         {
           "date": "2023-03-30",
           "contributionCount": 6,
-          "color": "#40c463"
+          "color": "#30a14e"
         },
         {
           "date": "2023-03-31",
           "contributionCount": 3,
-          "color": "#9be9a8"
+          "color": "#40c463"
         },
         {
           "date": "2023-04-01",
@@ -22406,7 +22406,7 @@
         {
           "date": "2023-04-03",
           "contributionCount": 3,
-          "color": "#9be9a8"
+          "color": "#40c463"
         },
         {
           "date": "2023-04-04",
@@ -22426,7 +22426,7 @@
         {
           "date": "2023-04-07",
           "contributionCount": 3,
-          "color": "#9be9a8"
+          "color": "#40c463"
         },
         {
           "date": "2023-04-08",
@@ -22476,7 +22476,7 @@
         {
           "date": "2023-04-17",
           "contributionCount": 6,
-          "color": "#40c463"
+          "color": "#30a14e"
         },
         {
           "date": "2023-04-18",
@@ -22530,13 +22530,13 @@
         },
         {
           "date": "2023-04-28",
-          "contributionCount": 4,
+          "contributionCount": 3,
           "color": "#40c463"
         },
         {
           "date": "2023-04-29",
-          "contributionCount": 0,
-          "color": "#ebedf0"
+          "contributionCount": 1,
+          "color": "#9be9a8"
         },
         {
           "date": "2023-04-30",
@@ -22561,7 +22561,7 @@
         {
           "date": "2023-05-04",
           "contributionCount": 6,
-          "color": "#40c463"
+          "color": "#30a14e"
         },
         {
           "date": "2023-05-05",
@@ -22580,13 +22580,13 @@
         },
         {
           "date": "2023-05-08",
-          "contributionCount": 7,
+          "contributionCount": 6,
           "color": "#30a14e"
         },
         {
           "date": "2023-05-09",
-          "contributionCount": 2,
-          "color": "#9be9a8"
+          "contributionCount": 3,
+          "color": "#40c463"
         },
         {
           "date": "2023-05-10",
@@ -22651,7 +22651,7 @@
         {
           "date": "2023-05-22",
           "contributionCount": 6,
-          "color": "#40c463"
+          "color": "#30a14e"
         },
         {
           "date": "2023-05-23",
@@ -22691,7 +22691,7 @@
         {
           "date": "2023-05-30",
           "contributionCount": 6,
-          "color": "#40c463"
+          "color": "#30a14e"
         },
         {
           "date": "2023-05-31",
@@ -22725,13 +22725,13 @@
         },
         {
           "date": "2023-06-06",
-          "contributionCount": 4,
+          "contributionCount": 3,
           "color": "#40c463"
         },
         {
           "date": "2023-06-07",
-          "contributionCount": 9,
-          "color": "#30a14e"
+          "contributionCount": 10,
+          "color": "#216e39"
         },
         {
           "date": "2023-06-08",
@@ -22766,7 +22766,7 @@
         {
           "date": "2023-06-14",
           "contributionCount": 9,
-          "color": "#30a14e"
+          "color": "#216e39"
         },
         {
           "date": "2023-06-15",
@@ -22776,7 +22776,7 @@
         {
           "date": "2023-06-16",
           "contributionCount": 3,
-          "color": "#9be9a8"
+          "color": "#40c463"
         },
         {
           "date": "2023-06-17",
@@ -22841,12 +22841,12 @@
         {
           "date": "2023-06-29",
           "contributionCount": 3,
-          "color": "#9be9a8"
+          "color": "#40c463"
         },
         {
           "date": "2023-06-30",
           "contributionCount": 3,
-          "color": "#9be9a8"
+          "color": "#40c463"
         },
         {
           "date": "2023-07-01",
@@ -22906,16 +22906,16 @@
         {
           "date": "2023-07-12",
           "contributionCount": 6,
-          "color": "#40c463"
+          "color": "#30a14e"
         },
         {
           "date": "2023-07-13",
-          "contributionCount": 12,
+          "contributionCount": 11,
           "color": "#216e39"
         },
         {
           "date": "2023-07-14",
-          "contributionCount": 10,
+          "contributionCount": 11,
           "color": "#216e39"
         },
         {
@@ -22931,17 +22931,17 @@
         {
           "date": "2023-07-17",
           "contributionCount": 3,
-          "color": "#9be9a8"
+          "color": "#40c463"
         },
         {
           "date": "2023-07-18",
           "contributionCount": 6,
-          "color": "#40c463"
+          "color": "#30a14e"
         },
         {
           "date": "2023-07-19",
           "contributionCount": 3,
-          "color": "#9be9a8"
+          "color": "#40c463"
         },
         {
           "date": "2023-07-20",
@@ -22981,7 +22981,7 @@
         {
           "date": "2023-07-27",
           "contributionCount": 6,
-          "color": "#40c463"
+          "color": "#30a14e"
         },
         {
           "date": "2023-07-28",
@@ -23010,18 +23010,18 @@
         },
         {
           "date": "2023-08-02",
-          "contributionCount": 3,
-          "color": "#9be9a8"
-        },
-        {
-          "date": "2023-08-03",
           "contributionCount": 2,
           "color": "#9be9a8"
         },
         {
+          "date": "2023-08-03",
+          "contributionCount": 3,
+          "color": "#40c463"
+        },
+        {
           "date": "2023-08-04",
           "contributionCount": 6,
-          "color": "#40c463"
+          "color": "#30a14e"
         },
         {
           "date": "2023-08-05",
@@ -23081,7 +23081,7 @@
         {
           "date": "2023-08-16",
           "contributionCount": 3,
-          "color": "#9be9a8"
+          "color": "#40c463"
         },
         {
           "date": "2023-08-17",
@@ -23106,12 +23106,12 @@
         {
           "date": "2023-08-21",
           "contributionCount": 6,
-          "color": "#40c463"
+          "color": "#30a14e"
         },
         {
           "date": "2023-08-22",
           "contributionCount": 9,
-          "color": "#30a14e"
+          "color": "#216e39"
         },
         {
           "date": "2023-08-23",
@@ -23191,7 +23191,7 @@
         {
           "date": "2023-09-07",
           "contributionCount": 3,
-          "color": "#9be9a8"
+          "color": "#40c463"
         },
         {
           "date": "2023-09-08",
@@ -23231,7 +23231,7 @@
         {
           "date": "2023-09-15",
           "contributionCount": 3,
-          "color": "#9be9a8"
+          "color": "#40c463"
         },
         {
           "date": "2023-09-16",
@@ -23250,12 +23250,12 @@
         },
         {
           "date": "2023-09-19",
-          "contributionCount": 3,
+          "contributionCount": 2,
           "color": "#9be9a8"
         },
         {
           "date": "2023-09-20",
-          "contributionCount": 7,
+          "contributionCount": 8,
           "color": "#30a14e"
         },
         {
@@ -23351,7 +23351,7 @@
         {
           "date": "2023-10-09",
           "contributionCount": 3,
-          "color": "#9be9a8"
+          "color": "#40c463"
         },
         {
           "date": "2023-10-10",
@@ -23425,12 +23425,12 @@
         },
         {
           "date": "2023-10-24",
-          "contributionCount": 2,
+          "contributionCount": 1,
           "color": "#9be9a8"
         },
         {
           "date": "2023-10-25",
-          "contributionCount": 1,
+          "contributionCount": 2,
           "color": "#9be9a8"
         },
         {
@@ -23476,7 +23476,7 @@
         {
           "date": "2023-11-03",
           "contributionCount": 3,
-          "color": "#9be9a8"
+          "color": "#40c463"
         },
         {
           "date": "2023-11-04",
@@ -23596,7 +23596,7 @@
         {
           "date": "2023-11-27",
           "contributionCount": 3,
-          "color": "#9be9a8"
+          "color": "#40c463"
         },
         {
           "date": "2023-11-28",
@@ -23671,7 +23671,7 @@
         {
           "date": "2023-12-12",
           "contributionCount": 9,
-          "color": "#30a14e"
+          "color": "#216e39"
         },
         {
           "date": "2023-12-13",
@@ -23716,7 +23716,7 @@
         {
           "date": "2023-12-21",
           "contributionCount": 3,
-          "color": "#9be9a8"
+          "color": "#40c463"
         },
         {
           "date": "2023-12-22",
@@ -23741,7 +23741,7 @@
         {
           "date": "2023-12-26",
           "contributionCount": 6,
-          "color": "#40c463"
+          "color": "#30a14e"
         },
         {
           "date": "2023-12-27",
@@ -24007,7 +24007,9 @@
             "isPrivate": false,
             "url": "https://github.com/caseprince/physics-bin-packing"
           }
-        }
+        },
+        null,
+        null
       ]
     },
     {
@@ -24016,12 +24018,12 @@
       "to": "2024-12-31T23:59:59Z",
       "totals": {
         "contributions": 1269,
-        "commits": 22,
+        "commits": 36,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositories": 0,
-        "restricted": 1247
+        "repositories": 1,
+        "restricted": 1232
       },
       "calendar": [
         {
@@ -24031,12 +24033,12 @@
         },
         {
           "date": "2024-01-02",
-          "contributionCount": 11,
+          "contributionCount": 10,
           "color": "#30a14e"
         },
         {
           "date": "2024-01-03",
-          "contributionCount": 6,
+          "contributionCount": 7,
           "color": "#40c463"
         },
         {
@@ -24316,13 +24318,13 @@
         },
         {
           "date": "2024-02-28",
-          "contributionCount": 10,
+          "contributionCount": 9,
           "color": "#30a14e"
         },
         {
           "date": "2024-02-29",
-          "contributionCount": 4,
-          "color": "#9be9a8"
+          "contributionCount": 5,
+          "color": "#40c463"
         },
         {
           "date": "2024-03-01",
@@ -24351,13 +24353,13 @@
         },
         {
           "date": "2024-03-06",
-          "contributionCount": 5,
-          "color": "#40c463"
+          "contributionCount": 4,
+          "color": "#9be9a8"
         },
         {
           "date": "2024-03-07",
-          "contributionCount": 4,
-          "color": "#9be9a8"
+          "contributionCount": 5,
+          "color": "#40c463"
         },
         {
           "date": "2024-03-08",
@@ -24706,12 +24708,12 @@
         },
         {
           "date": "2024-05-16",
-          "contributionCount": 4,
+          "contributionCount": 3,
           "color": "#9be9a8"
         },
         {
           "date": "2024-05-17",
-          "contributionCount": 7,
+          "contributionCount": 8,
           "color": "#40c463"
         },
         {
@@ -24721,12 +24723,12 @@
         },
         {
           "date": "2024-05-19",
-          "contributionCount": 17,
+          "contributionCount": 16,
           "color": "#216e39"
         },
         {
           "date": "2024-05-20",
-          "contributionCount": 9,
+          "contributionCount": 10,
           "color": "#30a14e"
         },
         {
@@ -24776,12 +24778,12 @@
         },
         {
           "date": "2024-05-30",
-          "contributionCount": 12,
+          "contributionCount": 11,
           "color": "#30a14e"
         },
         {
           "date": "2024-05-31",
-          "contributionCount": 1,
+          "contributionCount": 2,
           "color": "#9be9a8"
         },
         {
@@ -25066,12 +25068,12 @@
         },
         {
           "date": "2024-07-27",
-          "contributionCount": 6,
+          "contributionCount": 5,
           "color": "#40c463"
         },
         {
           "date": "2024-07-28",
-          "contributionCount": 1,
+          "contributionCount": 2,
           "color": "#9be9a8"
         },
         {
@@ -25261,12 +25263,12 @@
         },
         {
           "date": "2024-09-04",
-          "contributionCount": 3,
+          "contributionCount": 2,
           "color": "#9be9a8"
         },
         {
           "date": "2024-09-05",
-          "contributionCount": 2,
+          "contributionCount": 3,
           "color": "#9be9a8"
         },
         {
@@ -25276,13 +25278,13 @@
         },
         {
           "date": "2024-09-07",
-          "contributionCount": 2,
+          "contributionCount": 1,
           "color": "#9be9a8"
         },
         {
           "date": "2024-09-08",
-          "contributionCount": 0,
-          "color": "#ebedf0"
+          "contributionCount": 1,
+          "color": "#9be9a8"
         },
         {
           "date": "2024-09-09",
@@ -25356,12 +25358,12 @@
         },
         {
           "date": "2024-09-23",
-          "contributionCount": 5,
-          "color": "#40c463"
+          "contributionCount": 4,
+          "color": "#9be9a8"
         },
         {
           "date": "2024-09-24",
-          "contributionCount": 3,
+          "contributionCount": 4,
           "color": "#9be9a8"
         },
         {
@@ -25426,12 +25428,12 @@
         },
         {
           "date": "2024-10-07",
-          "contributionCount": 6,
+          "contributionCount": 5,
           "color": "#40c463"
         },
         {
           "date": "2024-10-08",
-          "contributionCount": 5,
+          "contributionCount": 6,
           "color": "#40c463"
         },
         {
@@ -25601,12 +25603,12 @@
         },
         {
           "date": "2024-11-11",
-          "contributionCount": 2,
+          "contributionCount": 1,
           "color": "#9be9a8"
         },
         {
           "date": "2024-11-12",
-          "contributionCount": 5,
+          "contributionCount": 6,
           "color": "#40c463"
         },
         {
@@ -25746,12 +25748,12 @@
         },
         {
           "date": "2024-12-10",
-          "contributionCount": 7,
+          "contributionCount": 6,
           "color": "#40c463"
         },
         {
           "date": "2024-12-11",
-          "contributionCount": 13,
+          "contributionCount": 14,
           "color": "#216e39"
         },
         {
@@ -25928,7 +25930,9 @@
       "issues": [],
       "pullRequests": [],
       "pullRequestReviews": [],
-      "repositoriesCreated": []
+      "repositoriesCreated": [
+        null
+      ]
     },
     {
       "year": 2025,
@@ -25936,12 +25940,12 @@
       "to": "2025-12-31T23:59:59Z",
       "totals": {
         "contributions": 976,
-        "commits": 193,
+        "commits": 363,
         "issues": 0,
-        "pullRequests": 2,
-        "pullRequestReviews": 0,
-        "repositories": 2,
-        "restricted": 779
+        "pullRequests": 6,
+        "pullRequestReviews": 5,
+        "repositories": 7,
+        "restricted": 594
       },
       "calendar": [
         {
@@ -25991,13 +25995,13 @@
         },
         {
           "date": "2025-01-10",
-          "contributionCount": 4,
-          "color": "#40c463"
+          "contributionCount": 3,
+          "color": "#9be9a8"
         },
         {
           "date": "2025-01-11",
-          "contributionCount": 0,
-          "color": "#ebedf0"
+          "contributionCount": 1,
+          "color": "#9be9a8"
         },
         {
           "date": "2025-01-12",
@@ -26206,13 +26210,13 @@
         },
         {
           "date": "2025-02-22",
-          "contributionCount": 5,
+          "contributionCount": 4,
           "color": "#40c463"
         },
         {
           "date": "2025-02-23",
-          "contributionCount": 0,
-          "color": "#ebedf0"
+          "contributionCount": 1,
+          "color": "#9be9a8"
         },
         {
           "date": "2025-02-24",
@@ -26261,13 +26265,13 @@
         },
         {
           "date": "2025-03-05",
-          "contributionCount": 5,
+          "contributionCount": 4,
           "color": "#40c463"
         },
         {
           "date": "2025-03-06",
-          "contributionCount": 10,
-          "color": "#30a14e"
+          "contributionCount": 11,
+          "color": "#216e39"
         },
         {
           "date": "2025-03-07",
@@ -26346,13 +26350,13 @@
         },
         {
           "date": "2025-03-22",
-          "contributionCount": 2,
+          "contributionCount": 1,
           "color": "#9be9a8"
         },
         {
           "date": "2025-03-23",
-          "contributionCount": 0,
-          "color": "#ebedf0"
+          "contributionCount": 1,
+          "color": "#9be9a8"
         },
         {
           "date": "2025-03-24",
@@ -26401,8 +26405,8 @@
         },
         {
           "date": "2025-04-02",
-          "contributionCount": 4,
-          "color": "#40c463"
+          "contributionCount": 3,
+          "color": "#9be9a8"
         },
         {
           "date": "2025-04-03",
@@ -26411,7 +26415,7 @@
         },
         {
           "date": "2025-04-04",
-          "contributionCount": 5,
+          "contributionCount": 6,
           "color": "#40c463"
         },
         {
@@ -26506,12 +26510,12 @@
         },
         {
           "date": "2025-04-23",
-          "contributionCount": 4,
-          "color": "#40c463"
+          "contributionCount": 3,
+          "color": "#9be9a8"
         },
         {
           "date": "2025-04-24",
-          "contributionCount": 2,
+          "contributionCount": 3,
           "color": "#9be9a8"
         },
         {
@@ -26576,12 +26580,12 @@
         },
         {
           "date": "2025-05-07",
-          "contributionCount": 3,
+          "contributionCount": 2,
           "color": "#9be9a8"
         },
         {
           "date": "2025-05-08",
-          "contributionCount": 1,
+          "contributionCount": 2,
           "color": "#9be9a8"
         },
         {
@@ -26601,12 +26605,12 @@
         },
         {
           "date": "2025-05-12",
-          "contributionCount": 5,
+          "contributionCount": 4,
           "color": "#40c463"
         },
         {
           "date": "2025-05-13",
-          "contributionCount": 2,
+          "contributionCount": 3,
           "color": "#9be9a8"
         },
         {
@@ -27171,13 +27175,13 @@
         },
         {
           "date": "2025-09-03",
-          "contributionCount": 6,
+          "contributionCount": 5,
           "color": "#40c463"
         },
         {
           "date": "2025-09-04",
-          "contributionCount": 0,
-          "color": "#ebedf0"
+          "contributionCount": 1,
+          "color": "#9be9a8"
         },
         {
           "date": "2025-09-05",
@@ -27386,13 +27390,13 @@
         },
         {
           "date": "2025-10-16",
-          "contributionCount": 5,
+          "contributionCount": 4,
           "color": "#40c463"
         },
         {
           "date": "2025-10-17",
-          "contributionCount": 0,
-          "color": "#ebedf0"
+          "contributionCount": 1,
+          "color": "#9be9a8"
         },
         {
           "date": "2025-10-18",
@@ -27591,13 +27595,13 @@
         },
         {
           "date": "2025-11-26",
-          "contributionCount": 2,
+          "contributionCount": 1,
           "color": "#9be9a8"
         },
         {
           "date": "2025-11-27",
-          "contributionCount": 0,
-          "color": "#ebedf0"
+          "contributionCount": 1,
+          "color": "#9be9a8"
         },
         {
           "date": "2025-11-28",
@@ -27646,12 +27650,12 @@
         },
         {
           "date": "2025-12-07",
-          "contributionCount": 3,
+          "contributionCount": 2,
           "color": "#9be9a8"
         },
         {
           "date": "2025-12-08",
-          "contributionCount": 4,
+          "contributionCount": 5,
           "color": "#40c463"
         },
         {
@@ -28118,6 +28122,9 @@
             }
           }
         },
+        null,
+        null,
+        null,
         {
           "occurredAt": "2025-09-27T04:13:16Z",
           "isRestricted": false,
@@ -28129,10 +28136,21 @@
               "nameWithOwner": "caseprince/resume"
             }
           }
-        }
+        },
+        null
       ],
-      "pullRequestReviews": [],
+      "pullRequestReviews": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "repositoriesCreated": [
+        null,
+        null,
+        null,
+        null,
         {
           "occurredAt": "2025-09-28T18:21:27Z",
           "isRestricted": false,
@@ -28150,21 +28168,22 @@
             "isPrivate": false,
             "url": "https://github.com/caseprince/dnd"
           }
-        }
+        },
+        null
       ]
     },
     {
       "year": 2026,
       "from": "2026-01-01T00:00:00Z",
-      "to": "2026-04-10T17:51:56Z",
+      "to": "2026-04-10T18:10:11Z",
       "totals": {
-        "contributions": 951,
-        "commits": 0,
+        "contributions": 843,
+        "commits": 799,
         "issues": 0,
-        "pullRequests": 0,
-        "pullRequestReviews": 0,
-        "repositories": 0,
-        "restricted": 951
+        "pullRequests": 38,
+        "pullRequestReviews": 2,
+        "repositories": 4,
+        "restricted": 0
       },
       "calendar": [
         {
@@ -28264,8 +28283,8 @@
         },
         {
           "date": "2026-01-20",
-          "contributionCount": 1,
-          "color": "#9be9a8"
+          "contributionCount": 0,
+          "color": "#ebedf0"
         },
         {
           "date": "2026-01-21",
@@ -28274,12 +28293,12 @@
         },
         {
           "date": "2026-01-22",
-          "contributionCount": 7,
+          "contributionCount": 6,
           "color": "#9be9a8"
         },
         {
           "date": "2026-01-23",
-          "contributionCount": 5,
+          "contributionCount": 4,
           "color": "#9be9a8"
         },
         {
@@ -28294,7 +28313,7 @@
         },
         {
           "date": "2026-01-26",
-          "contributionCount": 7,
+          "contributionCount": 5,
           "color": "#9be9a8"
         },
         {
@@ -28309,7 +28328,7 @@
         },
         {
           "date": "2026-01-29",
-          "contributionCount": 2,
+          "contributionCount": 1,
           "color": "#9be9a8"
         },
         {
@@ -28329,18 +28348,18 @@
         },
         {
           "date": "2026-02-02",
-          "contributionCount": 2,
+          "contributionCount": 1,
           "color": "#9be9a8"
         },
         {
           "date": "2026-02-03",
-          "contributionCount": 7,
+          "contributionCount": 6,
           "color": "#9be9a8"
         },
         {
           "date": "2026-02-04",
-          "contributionCount": 8,
-          "color": "#40c463"
+          "contributionCount": 6,
+          "color": "#9be9a8"
         },
         {
           "date": "2026-02-05",
@@ -28369,7 +28388,7 @@
         },
         {
           "date": "2026-02-10",
-          "contributionCount": 7,
+          "contributionCount": 5,
           "color": "#9be9a8"
         },
         {
@@ -28379,13 +28398,13 @@
         },
         {
           "date": "2026-02-12",
-          "contributionCount": 5,
+          "contributionCount": 3,
           "color": "#9be9a8"
         },
         {
           "date": "2026-02-13",
-          "contributionCount": 18,
-          "color": "#30a14e"
+          "contributionCount": 13,
+          "color": "#40c463"
         },
         {
           "date": "2026-02-14",
@@ -28399,7 +28418,7 @@
         },
         {
           "date": "2026-02-16",
-          "contributionCount": 10,
+          "contributionCount": 9,
           "color": "#40c463"
         },
         {
@@ -28409,17 +28428,17 @@
         },
         {
           "date": "2026-02-18",
-          "contributionCount": 14,
+          "contributionCount": 9,
           "color": "#40c463"
         },
         {
           "date": "2026-02-19",
-          "contributionCount": 8,
-          "color": "#40c463"
+          "contributionCount": 1,
+          "color": "#9be9a8"
         },
         {
           "date": "2026-02-20",
-          "contributionCount": 6,
+          "contributionCount": 4,
           "color": "#9be9a8"
         },
         {
@@ -28434,27 +28453,27 @@
         },
         {
           "date": "2026-02-23",
-          "contributionCount": 9,
-          "color": "#40c463"
+          "contributionCount": 7,
+          "color": "#9be9a8"
         },
         {
           "date": "2026-02-24",
-          "contributionCount": 10,
+          "contributionCount": 8,
           "color": "#40c463"
         },
         {
           "date": "2026-02-25",
-          "contributionCount": 3,
+          "contributionCount": 1,
           "color": "#9be9a8"
         },
         {
           "date": "2026-02-26",
-          "contributionCount": 16,
-          "color": "#30a14e"
+          "contributionCount": 13,
+          "color": "#40c463"
         },
         {
           "date": "2026-02-27",
-          "contributionCount": 6,
+          "contributionCount": 4,
           "color": "#9be9a8"
         },
         {
@@ -28469,17 +28488,17 @@
         },
         {
           "date": "2026-03-02",
-          "contributionCount": 20,
-          "color": "#30a14e"
+          "contributionCount": 15,
+          "color": "#40c463"
         },
         {
           "date": "2026-03-03",
-          "contributionCount": 18,
+          "contributionCount": 16,
           "color": "#30a14e"
         },
         {
           "date": "2026-03-04",
-          "contributionCount": 15,
+          "contributionCount": 12,
           "color": "#40c463"
         },
         {
@@ -28504,12 +28523,12 @@
         },
         {
           "date": "2026-03-09",
-          "contributionCount": 9,
-          "color": "#40c463"
+          "contributionCount": 5,
+          "color": "#9be9a8"
         },
         {
           "date": "2026-03-10",
-          "contributionCount": 4,
+          "contributionCount": 5,
           "color": "#9be9a8"
         },
         {
@@ -28524,7 +28543,7 @@
         },
         {
           "date": "2026-03-13",
-          "contributionCount": 11,
+          "contributionCount": 9,
           "color": "#40c463"
         },
         {
@@ -28539,17 +28558,17 @@
         },
         {
           "date": "2026-03-16",
-          "contributionCount": 5,
+          "contributionCount": 3,
           "color": "#9be9a8"
         },
         {
           "date": "2026-03-17",
-          "contributionCount": 14,
+          "contributionCount": 11,
           "color": "#40c463"
         },
         {
           "date": "2026-03-18",
-          "contributionCount": 19,
+          "contributionCount": 16,
           "color": "#30a14e"
         },
         {
@@ -28559,7 +28578,7 @@
         },
         {
           "date": "2026-03-20",
-          "contributionCount": 7,
+          "contributionCount": 3,
           "color": "#9be9a8"
         },
         {
@@ -28574,12 +28593,12 @@
         },
         {
           "date": "2026-03-23",
-          "contributionCount": 8,
-          "color": "#40c463"
+          "contributionCount": 6,
+          "color": "#9be9a8"
         },
         {
           "date": "2026-03-24",
-          "contributionCount": 4,
+          "contributionCount": 2,
           "color": "#9be9a8"
         },
         {
@@ -28589,8 +28608,8 @@
         },
         {
           "date": "2026-03-26",
-          "contributionCount": 10,
-          "color": "#40c463"
+          "contributionCount": 7,
+          "color": "#9be9a8"
         },
         {
           "date": "2026-03-27",
@@ -28609,12 +28628,12 @@
         },
         {
           "date": "2026-03-30",
-          "contributionCount": 17,
-          "color": "#30a14e"
+          "contributionCount": 13,
+          "color": "#40c463"
         },
         {
           "date": "2026-03-31",
-          "contributionCount": 11,
+          "contributionCount": 8,
           "color": "#40c463"
         },
         {
@@ -28624,13 +28643,13 @@
         },
         {
           "date": "2026-04-02",
-          "contributionCount": 13,
+          "contributionCount": 10,
           "color": "#40c463"
         },
         {
           "date": "2026-04-03",
-          "contributionCount": 19,
-          "color": "#30a14e"
+          "contributionCount": 13,
+          "color": "#40c463"
         },
         {
           "date": "2026-04-04",
@@ -28644,35 +28663,103 @@
         },
         {
           "date": "2026-04-06",
-          "contributionCount": 15,
+          "contributionCount": 14,
           "color": "#40c463"
         },
         {
           "date": "2026-04-07",
-          "contributionCount": 53,
+          "contributionCount": 51,
           "color": "#216e39"
         },
         {
           "date": "2026-04-08",
-          "contributionCount": 26,
-          "color": "#216e39"
-        },
-        {
-          "date": "2026-04-09",
-          "contributionCount": 16,
+          "contributionCount": 22,
           "color": "#30a14e"
         },
         {
+          "date": "2026-04-09",
+          "contributionCount": 11,
+          "color": "#40c463"
+        },
+        {
           "date": "2026-04-10",
-          "contributionCount": 6,
+          "contributionCount": 5,
           "color": "#9be9a8"
         }
       ],
-      "commits": [],
+      "commits": [
+        {
+          "repository": "caseprince/.gitgud",
+          "isPrivate": false,
+          "totalCount": 3,
+          "truncated": false,
+          "days": [
+            {
+              "date": "2026-04-10T07:00:00Z",
+              "commits": 3
+            }
+          ]
+        }
+      ],
       "issues": [],
-      "pullRequests": [],
-      "pullRequestReviews": [],
-      "repositoriesCreated": []
+      "pullRequests": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "pullRequestReviews": [
+        null,
+        null
+      ],
+      "repositoriesCreated": [
+        {
+          "occurredAt": "2026-04-10T15:28:59Z",
+          "isRestricted": false,
+          "repository": {
+            "nameWithOwner": "caseprince/.gitgud",
+            "isPrivate": false,
+            "url": "https://github.com/caseprince/.gitgud"
+          }
+        },
+        null,
+        null,
+        null
+      ]
     }
   ]
 }
