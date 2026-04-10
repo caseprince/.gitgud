@@ -7,7 +7,9 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
-OUT = Path.home() / ".gitgud" / "contributions.json"
+DIR = Path.home() / ".gitgud"
+CONFIG = json.loads((DIR / "config.json").read_text())
+OUT = DIR / "contributions.json"
 
 
 def gh_graphql(query: str, variables: dict) -> dict:
@@ -184,8 +186,8 @@ def paginate(connection_name: str, username: str, from_date: str, to_date: str, 
 
 
 def main():
-    user_info = gh_rest("user")
-    username = user_info["login"]
+    username = CONFIG["username"]
+    user_info = gh_rest(f"users/{username}")
     created_at = user_info["created_at"]
     start_year = int(created_at[:4])
     now = datetime.now(timezone.utc)
