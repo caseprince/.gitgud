@@ -7,10 +7,10 @@ import subprocess
 from datetime import date, timedelta
 from pathlib import Path
 
-DIR = Path.home() / ".gitgud"
+DIR = Path(__file__).resolve().parent
 CONFIG = json.loads((DIR / "config.json").read_text())
 DATA = DIR / "contributions.json"
-OUT = DIR / "contributions.html"
+OUT = DIR / "index.html"
 
 CELL_SIZE = CONFIG.get("cell_size", 10)
 GAP = CONFIG.get("gap", 2)

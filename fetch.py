@@ -7,7 +7,7 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
-DIR = Path.home() / ".gitgud"
+DIR = Path(__file__).resolve().parent
 CONFIG = json.loads((DIR / "config.json").read_text())
 OUT = DIR / "contributions.json"
 
