@@ -3,6 +3,7 @@
 
 import calendar as cal
 import json
+from html import escape as html_escape
 import subprocess
 from datetime import date, timedelta
 from pathlib import Path
@@ -16,6 +17,8 @@ CELL_SIZE = CONFIG.get("cell_size", 10)
 GAP = CONFIG.get("gap", 2)
 YEAR_GAP = CONFIG.get("year_gap", 6)
 GREEN = CONFIG.get("color", "46, 160, 67")
+# Outer radius so the content box (after padding + background-clip) matches this corner radius.
+CELL_RADIUS = 2
 
 
 def ordinal(n: int) -> str:
@@ -107,9 +110,10 @@ def main():
             col = d.weekday() + 1
             count = counts.get(d.isoformat(), 0)
             lvl = level(count)
-            title = tooltip(count, d)
+            tip = html_escape(tooltip(count, d))
             cells.append(
-                f'<div class="c{lvl}" style="grid-row:{row};grid-column:{col}" title="{title}"></div>'
+                f'<div class="c{lvl} day-cell" style="grid-row:{row};grid-column:{col}" '
+                f'data-tip="{tip}" aria-label="{tip}"></div>'
             )
             d += timedelta(days=1)
 
@@ -131,12 +135,18 @@ def main():
   .c0 {{ background: rgba(255, 255, 255, 0.05); }}
   a {{ color: rgba(255, 255, 255, 0.85); }}
   a:hover {{ color: #fff; }}
+  .day-cell:hover {{
+    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.35);
+  }}
 }}
 @media (prefers-color-scheme: light) {{
   body {{ background: #ffffff; color: rgba(0, 0, 0, 0.7); }}
   .c0 {{ background: rgba(0, 0, 0, 0.06); }}
   a {{ color: rgba(0, 0, 0, 0.85); }}
   a:hover {{ color: #000; }}
+  .day-cell:hover {{
+    box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.22);
+  }}
 }}
 * {{ box-sizing: border-box; }}
 body {{
@@ -197,17 +207,44 @@ h2 {{
 }}
 .year {{
   display: grid;
-  grid-template-columns: repeat(7, {CELL_SIZE}px);
-  grid-auto-rows: {CELL_SIZE}px;
-  gap: {GAP}px;
+  grid-template-columns: repeat(7, {CELL_SIZE + GAP}px);
+  grid-auto-rows: {CELL_SIZE + GAP}px;
+  gap: 0;
 }}
 .year > div {{
-  border-radius: 2px;
+  border-radius: {CELL_RADIUS + GAP / 2:g}px;
+  padding: {GAP / 2:g}px;
+  background-clip: content-box;
 }}
 .c1 {{ background: rgba({GREEN}, 0.2); }}
 .c2 {{ background: rgba({GREEN}, 0.4); }}
 .c3 {{ background: rgba({GREEN}, 0.7); }}
 .c4 {{ background: rgba({GREEN}, 1.0); }}
+.day-cell {{ cursor: default; }}
+#tip {{
+  position: fixed;
+  z-index: 1080;
+  left: 0;
+  top: 0;
+  max-width: min(280px, calc(100vw - 16px));
+  padding: 0.25rem 0.5rem;
+  font-size: 0.8125rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #fff;
+  text-align: center;
+  background-color: #212529;
+  border-radius: 0.25rem;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.15);
+  pointer-events: none;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.12s ease;
+}}
+#tip.show {{
+  opacity: 1;
+  visibility: visible;
+}}
 </style>
 </head>
 <body>
@@ -222,7 +259,60 @@ h2 {{
   </div>
 </div>
 </main>
-<script>document.querySelector('.scroll').scrollLeft=1e9</script>
+<div id="tip" role="tooltip" aria-hidden="true"></div>
+<script>
+(function () {{
+  var scroll = document.querySelector('.scroll');
+  var grid = document.querySelector('.grid');
+  var tip = document.getElementById('tip');
+  if (!scroll || !grid || !tip) return;
+
+  function hide() {{
+    tip.classList.remove('show');
+    tip.setAttribute('aria-hidden', 'true');
+  }}
+
+  function show(el) {{
+    var text = el.getAttribute('data-tip');
+    if (!text) return;
+    tip.textContent = text;
+    tip.classList.add('show');
+    tip.removeAttribute('aria-hidden');
+
+    requestAnimationFrame(function () {{
+      var r = el.getBoundingClientRect();
+      var tr = tip.getBoundingClientRect();
+      var margin = 6;
+      var pad = 8;
+      var x = r.left + r.width / 2 - tr.width / 2;
+      var y = r.top - tr.height - margin;
+      if (y < pad) y = r.bottom + margin;
+      x = Math.max(pad, Math.min(x, window.innerWidth - tr.width - pad));
+      tip.style.left = x + 'px';
+      tip.style.top = y + 'px';
+    }});
+  }}
+
+  grid.addEventListener('mouseover', function (e) {{
+    var cell = e.target.closest('.day-cell');
+    if (cell) show(cell);
+  }});
+  grid.addEventListener('mouseout', function (e) {{
+    var cell = e.target.closest('.day-cell');
+    if (!cell) return;
+    var related = e.relatedTarget;
+    if (related && cell.contains(related)) return;
+    var toCell = related && related.closest && related.closest('.day-cell');
+    if (toCell) {{ show(toCell); return; }}
+    hide();
+  }});
+  scroll.addEventListener('scroll', hide);
+  document.addEventListener('scroll', hide, true);
+  window.addEventListener('blur', hide);
+
+  scroll.scrollLeft = 1e9;
+}})();
+</script>
 </body>
 </html>"""
 
