@@ -18,8 +18,6 @@ jobs:
           python-version: '3.12'
 
       - name: Fetch contributions
-        env:
-          GH_TOKEN: ${{ secrets.GH_PAT }}
         run: python fetch.py
 
       - name: Render HTML
